@@ -9,7 +9,9 @@ You should run code of each solution separately. In each run you are asked to en
 - Number of items in knapsack
 - Value and weight of each item
 - Capacity of knapsack
+
 And the outputs you will see are:
+
 - Total time spent to run
 - Max Profit
 - Final selected itesms
